@@ -1,0 +1,6 @@
+# print(type(498))
+# print(type(True))
+# print(type('True'))
+# print(type(7.65))
+
+print(3 /3 *3 -3 + 3)

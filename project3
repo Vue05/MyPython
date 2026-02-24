@@ -1,0 +1,6 @@
+weight = int(input("What is your weight in kg? "))
+
+if weight >= 50:
+    print("You are not underweight!")
+else:
+    print("You are underweight!")
