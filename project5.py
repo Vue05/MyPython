@@ -1,7 +1,7 @@
 fruits = ["apple", "peach", "pear"]
- 
-for fruit in fruits:
-    print(fruit)
-    print(f"{fruit} pie")
+veggies = ["spinach", "brocolli", "parsley"]
 
-print(fruits)
+healthy_foods = [fruits, veggies]
+
+print(healthy_foods)
+print(healthy_foods[1] [1])
