@@ -4,3 +4,7 @@
 # print(type(7.65))
 
 print(3 /3 *3 -3 + 3)
+
+''' git add .
+git commit -m "name of work"
+git push '''
