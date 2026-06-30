@@ -3,8 +3,23 @@
 # print(type('True'))
 # print(type(7.65))
 
-print(3 /3 *3 -3 + 3)
+'''def concatenate_these(a, b):
+    print(a + b)
 
+concatenate_these("Hello", " World")'''
+def example():
+    fullstop = ".."
+    print(fullstop * 5)
+    comma = ","
+    print(comma * 5)
+    punc = 4
+    global ans
+    ans = 10 - punc
+    
+    return ans
+    
+example()
+print(ans)
 ''' git add .
 git commit -m "name of work"
 git push '''
